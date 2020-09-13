@@ -19,7 +19,7 @@ namespace _07_ByteBank
             Console.WriteLine(conta.Agencia);
             Console.WriteLine(conta.Numero);
 
-            ContaCorrente contaDaGabriela = new ContaCorrente(867, 8674582000);
+            ContaCorrente contaDaGabriela = new ContaCorrente(867, 86745820);
             Console.WriteLine(ContaCorrente.TotalDeContasCriadas);
 
 

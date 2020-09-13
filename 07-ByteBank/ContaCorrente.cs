@@ -18,7 +18,7 @@ namespace _07_ByteBank
             }
             set
             {
-                if(value <= 0)
+                if (value <= 0)
                 {
                     return;
                 }
@@ -27,7 +27,7 @@ namespace _07_ByteBank
             }
         }
         public int Numero { get; set; }
-        
+
         private double _saldo = 100;
 
         public double Saldo
