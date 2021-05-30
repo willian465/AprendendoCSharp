@@ -12,5 +12,7 @@ namespace _05_ByteBank
         public string cpf;
         public string profissao;
         public string test;
+        public string test2;
+
     }
 }
